@@ -1,0 +1,6 @@
+vtec 1.7
+dependendo do modelo e ano de fabricação, segue sedan hatch
+ou coupe
+versoes automaticas e manuais
+no brasil, apenas houve modelo sedan
+versões com motores inferiores de 1.6 (ex e lxl)
